@@ -1,0 +1,56 @@
+body
+{
+  color: #ecdbdb;
+  background-color: deeppink;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  background-color: dodgerblue;
+}
+
+label{
+  font-size: 14px;
+  color: blueviolet;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+ 
+#title{
+  color:azure;
+  font-size: large;
+}
+ 
+#title{
+  font-size: 20px; 
+}
+
+#main_line{
+  font-size: 15px;
+  margin-bottom: 15px;
+}
